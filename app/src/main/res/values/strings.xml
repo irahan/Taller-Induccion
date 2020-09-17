@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ISCAPP</string>
+    <string name="Etiqueta1">Bienvenidos</string>
+    <string name="Etiqueta2">Resultado</string>
+    <string name="Etiqueta3">Ingresu su nombre(s)</string>
+    <string name="Etiqueta4">Ingrese su apellido(s)</string>
+    <string name="Etiqueta5">Confirmar</string>
+</resources>
